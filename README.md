@@ -2,7 +2,7 @@
 
 project created with React + Vite
 
-npm install
-npm run dev 
+Install dependencies : npm install <br/>
+Run project : npm run dev 
 
 You can check the button on default container div and checnk the props
